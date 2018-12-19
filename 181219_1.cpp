@@ -17,6 +17,8 @@ int main()
 	printf("end");
 	
 	printf("nice");
+	
+	printf("good");
 
 
     std::cout << "Hello World!\n"; 
