@@ -12,6 +12,8 @@ int main()
 
 	printf("hihi");
 
+	printf("hoho");
+
 
     std::cout << "Hello World!\n"; 
 }
